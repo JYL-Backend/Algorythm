@@ -1,4 +1,4 @@
-package 카카오.KAKAO_BLIND_RECRUITMENT_2022;
+package 카카오.KAKAO_BLIND_RECRUITMENT.y2022;
 
 public class K진수에서_소수_개수_구하기 {
     public int solution(int n, int k) {

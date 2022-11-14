@@ -1,4 +1,4 @@
-package 카카오.KAKAO_BLIND_RECRUITMENT_2022;
+package 카카오.KAKAO_BLIND_RECRUITMENT.y2022;
 
 import java.util.*;
 

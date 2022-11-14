@@ -1,4 +1,4 @@
-package 카카오.카카오_개발자_겨울_인턴십_2019;
+package 카카오.인턴쉽.y2019;
 
 import java.util.ArrayList;
 import java.util.HashMap;
